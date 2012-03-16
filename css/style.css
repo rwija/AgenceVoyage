@@ -1,0 +1,179 @@
+body
+{
+    background-color: #4489D6/*#89D0FC*/;
+}
+.clearfix
+{clear: both;}
+nav
+{float: left;
+margin-left: 690px;
+margin-bottom: 5px;
+}
+#admin
+{
+  margin-left: 600px;
+margin-bottom: 5px;  
+ 
+}
+nav li
+{
+    float: left;
+    border-right: solid black 1px;
+    padding: 5px;
+    
+}
+#admin li
+{
+     float: left;
+    border-right: solid black 1px;
+    padding: 5px;
+margin-bottom: 10px;
+}
+#banner
+{
+    float: left;
+}
+.banner
+{
+    float: left;
+    margin: 10px;
+}
+#container
+{   width: 900px;
+    border: solid black 1px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+#content
+{
+    float: left;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    
+    
+}
+
+.content2
+{
+    margin-bottom: 10px;
+    
+}
+.text
+{
+    width: 500px;
+    float: left;
+    margin: 5px;
+   
+}
+.miniature
+{float: left;
+margin: 5px;}
+
+#left
+{    width: 225px;
+    float: left;
+}
+#right
+{   width: 660px;
+    float: left;
+    margin-left: 5px;
+}
+#bloc1
+{
+    float: left;
+    border: solid black 1px;
+    width: 200px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+#bloc2
+{
+    float: left;
+    width: 200px;
+    padding-left: 5px;
+}
+h2,h1
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+h1
+{}
+.englob
+{ border: solid black 1px;
+}
+form
+{
+    width: 500px;
+    margin: auto;
+    background-color: #80CDF7;
+    padding: 15px;
+    font-family: arial;
+    -moz-border-radius:10px;/*pour fire fox*/
+    -webkit-border-radius:10px;/*pour chrome/safari*/
+    border-radius:10px;/*pour l'avenir */
+    margin-top: 20px;
+    
+}
+legend
+{
+    background-color: #458BE0;
+  width: 100%;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+label
+{
+display: block;
+float: left;
+width: 100px;
+margin-bottom: 20px;
+
+}
+
+input,select
+{
+    width: 250px;
+    margin-bottom: 20px;
+}
+table
+{
+    width: 100%;
+    margin: 10px 0;
+}
+
+table, th, td
+{
+    border: 1px solid #000;
+}
+
+th
+{
+    font-weight: bold;
+    font-size: 10px;
+    text-align: left;
+}
+
+th, td
+{
+    padding: 5px;
+}
+tr
+{height: 20px;}
+
+tr:hover td
+{
+    background-color: #ffde91;
+}
+
+footer
+{
+width: 100%;
+text-align: center;
+padding-top: 10px;
+}
